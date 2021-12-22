@@ -60,3 +60,4 @@ print(row*20)
 #in ra 1 số biện pháp phòng chống covid-19:
 print("MỘT SỐ BIỆN PHÁP PHÒNG CHỐNG DỊCH COVID-19")
 print("- Đeo khẩu trang nơi công cộng \n- Giữ khoảng cách an toàn \n- Không tụ tập đông người \n- Thường xuyên khử khuẩn \n- Thực hiện khai báo y tế ")
+tui la tuan
